@@ -43,4 +43,4 @@ docker pull szopen/mysql:5.7-utf8
 
 支持中文，默认编码为utf8mb4
 
-docker pull szopen/mysql:8-utf8
+docker pull szopen/mysql:8-utf8test
